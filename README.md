@@ -1,5 +1,5 @@
 #  Interview Project
-This is a small project for the JS Developer interview by Creator.
+This is a small project for the Web Developer interview by Creator.
 
 ## Goal
 Create a Javascript application (we'd recommend React or Vue) that retrieves and displays the user repositories and organisations in Github.
@@ -7,7 +7,7 @@ Create a Javascript application (we'd recommend React or Vue) that retrieves and
 ## UX/UI
 Up to you, probably it should include an input to enter the username, one area to display the repositories of the user and another area to display the organisations. We've included a gif of what we've built internally as a very rough draft, so feel free to copy this, if you don't posess the neccessary design skills for this task.
 
-![Feel free to copy](http://dev.crtr.co.uk/interview.gif)
+http://dev.crtr.co.uk/interview.gif
 
 ## Retrieving data
 To make things easier we have commited a github-api.js file with the REST APIs needed to retrieve the information.
